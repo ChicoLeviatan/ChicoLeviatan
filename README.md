@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ChicoLeviatan
+- 👀 I’m interested in AI and cyber
+- 🌱 I’m currently learning Rust, Python
+- 💞️ I’m looking to collaborate on wonderful projects
+- 📫 How to reach me a.velia@leviatan.fr
+- 😄 Pronouns: ozjrgh
+- ⚡ Fun fact: I'm not fun
